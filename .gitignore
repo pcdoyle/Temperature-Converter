@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+.vs/VSWorkspaceState.json
+.vs/node.js/v15/.suo
+.vs/slnx.sqlite
